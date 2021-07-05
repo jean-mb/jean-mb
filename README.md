@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeeeaan&label=Profile%20views&color=0e75b6&style=flat" alt="jeeeaan" /> </p>
 
+- 🌱 Dev em **desenvolvimento!**
+
 - 🔭Atualmente, aprendendo **Python**
+
+- 🤝 Buscando fazer a diferença no **mundo**
 
 - 📫 Como entrar em contato comigo: **jeanfelipe0610@gmail.com**
 
