@@ -13,7 +13,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://codepen.io/@jeeeaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@jeeeaan" height="30" width="40" /></a>
+<a href="https://codepen.io/jeeeaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@jeeeaan" height="30" width="40" /></a>
 <a href="https://instagram.com/@bug.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bug.code" height="30" width="40" /></a>
 </p>
 
