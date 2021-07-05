@@ -1,5 +1,5 @@
-<h1 align="center">Olá! Me chamo Jean Felipe M. Buss</h1>
-<h3 align="center">Aprendendo todo dia. Bem vindo ao meu GitHub!</h3>
+<h1 align="center">Olá! Bem vindo ao meu GitHub! ❤</h1>
+<h3 align="center">Sou o Jean, o apaixonado pela tecnologia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeeeaan&label=Profile%20views&color=0e75b6&style=flat" alt="jeeeaan" /> </p>
 
