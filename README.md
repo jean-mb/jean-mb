@@ -5,7 +5,7 @@
 
 - 🌱 Dev em **desenvolvimento!**
 
-- 🔭Atualmente, aprendendo **Python**
+- 🔭Atualmente, aprendendo **C**
 
 - 🤝 Buscando fazer a diferença no **mundo**
 
