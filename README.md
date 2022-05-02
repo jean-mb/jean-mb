@@ -1,15 +1,15 @@
 <h1 <h1 align="center">Jean Felipe M. Buss</h1>
 <h3 align="center">Aprendendo todo dia. Bem vindo ao meu GitHub!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeeeaan&label=Profile%20views&color=0e75b6&style=flat" alt="jeeeaan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jeeeaan&label=Profile%20views&color=0e75b6&style=flat" alt="jeeeaan" /> </p>
 
-- 🌱 Dev em **desenvolvimento!**
+🌱 Dev em **desenvolvimento!**
 
-- 🔭Atualmente, aprendendo **C**
+🔭Atualmente, aprendendo **C**
 
-- 🤝 Buscando fazer a diferença no **mundo**
+🤝 Buscando fazer a diferença no **mundo**
 
-- 📫 Como entrar em contato comigo: **jeanfelipe0610@gmail.com**
+📫 Como entrar em contato comigo: **jeanfelipe0610@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
