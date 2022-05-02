@@ -24,10 +24,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jean-mb" alt="jean-mb" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jean-mb&show_icons=true&locale=en&layout=compact" alt="jean-mb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jean-mb&show_icons=true&locale=en" alt="jean-mb" /></p>
