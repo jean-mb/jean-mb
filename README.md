@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Olá! Eu sou o Jean Moschen, dev e apaixonado por tecnologia!
 <div align="center">
   <a href="https://github.com/jean-mb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jean-mb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
