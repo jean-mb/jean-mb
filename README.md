@@ -1,4 +1,4 @@
-<h2 align="center" background-color="light-blue">Jean Moschen, dev e apaixonado por tecnologia!</h2>
+<h2 align="center">Jean Moschen, dev e apaixonado por tecnologia!</h2>
 <div align="center">
   <a href="https://github.com/jean-mb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jean-mb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
