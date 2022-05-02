@@ -1,8 +1,8 @@
-<h2 align="center">Jean Moschen, dev e apaixonado por tecnologia!</h2>
+<h2 align="center">Jean Moschen: dev e apaixonado por tecnologia!</h2>
 <div align="center">
   <a href="https://github.com/jean-mb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jean-mb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-mb&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jean-mb&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-mb&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
