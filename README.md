@@ -38,8 +38,6 @@
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jean-mb&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-mb&layout=compact&langs_count=7&theme=aura"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jean-mb&theme=aura" alt="jean-mb" />
 </div>
 
